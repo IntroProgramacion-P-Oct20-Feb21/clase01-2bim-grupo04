@@ -20,7 +20,7 @@ public class Ejemplo03 {
             
             for (int j = 65; j <= 122; j++) {
                 if (v == (char)j) {
-                    reporte = String.format("%s (%s)\n", reporte, j);
+                    reporte = String.format("%s (%s)\n", reporte, j);  
                 }
 
             }
