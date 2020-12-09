@@ -26,11 +26,11 @@ public class Ejemplo01 {
                 System.out.printf("%s |%d|\n", (char)i, i);
             }
             
-            // if ((char)i=='e') {
-            //    System.out.printf("%s |%d|\n", (char)i, i);
-            // }
+             if ((char)i=='e') {
+                System.out.printf("%s |%d|\n", (char)i, i);
+             }
             
-        }
+        }   
         
         /*
         for (int i = 65; i <= 90; i++) {
